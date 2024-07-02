@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate web developer specializing in full-stack development with the MERN stack. With a strong focus on delivering user-friendly and efficient solutions, I enjoy turning complex problems into simple, intuitive applications. I am constantly learning and exploring new technologies to enhance my skills and contribute effectively to the tech community.
+I'm a passionate web developer specializing in frontend development with a strong focus on delivering user-friendly and efficient solutions. I enjoy turning complex designs into intuitive and responsive applications. I am constantly learning and exploring new technologies to enhance my skills and contribute effectively to the tech community.
 
 ## Skills
 
