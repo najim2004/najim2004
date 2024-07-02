@@ -37,16 +37,31 @@ I'm a passionate web developer specializing in frontend development with a stron
 ![Dev-tools](https://img.shields.io/badge/Dev--tools-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
+<h2 align="center">⚡ Stats ⚡</h2>
 
-### General Stats
+<div align="center">
 
-![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical)
+  <!-- Two-column layout -->
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <!-- General Stats -->
+        <h3 align="center">General Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/>
+      </td>
+      <td valign="top" width="50%">
+        <!-- Top Languages -->
+        <h3 align="center">Top Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Streak Stats spanning two columns -->
+        <h3 align="center">Streak Stats</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical)
-
-### Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical)
+</div>
