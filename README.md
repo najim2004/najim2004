@@ -43,25 +43,25 @@ I'm a passionate web developer specializing in frontend development with a stron
 
 <div align="center">
 
-  <!-- Two-column layout with equal height cards -->
+  <!-- Two-column layout -->
   <table>
     <tr>
       <td valign="top" width="50%">
         <!-- General Stats -->
         <h3 align="center">General Stats</h3>
-        <img align="center" height='300px' src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/>
       </td>
       <td valign="top" width="50%">
         <!-- Top Languages -->
         <h3 align="center">Top Languages</h3>
-        <img align="center" height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <!-- Streak Stats spanning two columns -->
         <h3 align="center">Streak Stats</h3>
-        <img align="center" height='300px' src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
