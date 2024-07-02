@@ -54,14 +54,14 @@ I'm a passionate web developer specializing in frontend development with a stron
       <td valign="top" width="50%">
         <!-- Top Languages -->
         <h3 align="center">Top Languages</h3>
-        <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+        <img align="center" width='80%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <!-- Streak Stats spanning two columns -->
         <h3 align="center">Streak Stats</h3>
-        <img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
+        <img align="center" width='70%' src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
