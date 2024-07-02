@@ -43,25 +43,31 @@ I'm a passionate web developer specializing in frontend development with a stron
 
 <div align="center">
 
-  <!-- Two-column layout -->
-  <table>
+  <!-- Two-column layout with equal height cards -->
+  <table style="width:100%; table-layout:fixed;">
     <tr>
       <td valign="top" width="50%">
         <!-- General Stats -->
-        <h3 align="center">General Stats</h3>
-        <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/>
+        <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+          <h3 align="center">General Stats</h3>
+          <img align="center" style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/>
+        </div>
       </td>
       <td valign="top" width="50%">
         <!-- Top Languages -->
-        <h3 align="center">Top Languages</h3>
-        <img align="center" width='80%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+        <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+          <h3 align="center">Top Languages</h3>
+          <img align="center" style="width: 100%; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+        </div>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <!-- Streak Stats spanning two columns -->
-        <h3 align="center">Streak Stats</h3>
-        <img align="center" width='70%' src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
+        <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+          <h3 align="center">Streak Stats</h3>
+          <img align="center" style="width: 100%; max-width: 600px;" src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
+        </div>
       </td>
     </tr>
   </table>
