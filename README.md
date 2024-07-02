@@ -1,3 +1,5 @@
+<img align='center' src='./images/github-header-image.png'/>
+
 <h1 align="center">Hi 👋, I'm Najim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
