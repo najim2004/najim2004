@@ -44,30 +44,24 @@ I'm a passionate web developer specializing in frontend development with a stron
 <div align="center">
 
   <!-- Two-column layout with equal height cards -->
-  <table style="width:100%; table-layout:fixed;">
+  <table>
     <tr>
       <td valign="top" width="50%">
         <!-- General Stats -->
-        <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-          <h3 align="center">General Stats</h3>
-          <img align="center" style="width: 70%; height: 300px;" src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/>
-        </div>
+        <h3 align="center">General Stats</h3>
+        <img align="center" height='300px' src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/>
       </td>
       <td valign="top" width="50%">
         <!-- Top Languages -->
-        <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-          <h3 align="center">Top Languages</h3>
-          <img align="center"style="width: 100%; height: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
-        </div>
+        <h3 align="center">Top Languages</h3>
+        <img align="center" height='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <!-- Streak Stats spanning two columns -->
-        <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-          <h3 align="center">Streak Stats</h3>
-          <img align="center" style="width: 70%; height: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
-        </div>
+        <h3 align="center">Streak Stats</h3>
+        <img align="center" height='300px' src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
