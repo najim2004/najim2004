@@ -4,7 +4,7 @@
 
 I'm a passionate web developer specializing in frontend development with a strong focus on delivering user-friendly and efficient solutions. I enjoy turning complex designs into intuitive and responsive applications. I am constantly learning and exploring new technologies to enhance my skills and contribute effectively to the tech community.
 
-## Skills
+<h2 align="center">Skills</h2>
 
 ### Front-End
 
@@ -37,27 +37,16 @@ I'm a passionate web developer specializing in frontend development with a stron
 ![Dev-tools](https://img.shields.io/badge/Dev--tools-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Commit Stats
+## GitHub Stats
+
+### General Stats
 
 ![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical)
 
-## Pinned Repositories
+### Top Languages
 
-### [Voyage Volunteer](https://github.com/najim2004/voyage-volunteer)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical)
 
-- A platform for art enthusiasts to share and explore various paintings.
-- **Live Demo:** [voyagevolunteer.com](https://voyagevolunteer.com)
-- **Technologies:** React, Node.js, Express, MongoDB, Firebase
+### Streak Stats
 
-### [Multicreatify Service Finder](https://github.com/najim2004/multicreatify-service-finder)
-
-- A web app connecting service seekers with service providers.
-- **Live Demo:** [multicreatifyfinder.com](https://multicreatifyfinder.com)
-- **Technologies:** React, Node.js, Express, MongoDB, Firebase
-
-### [Another Project](https://github.com/najim2004/another-project)
-
-- A description of your third project.
-- **Live Demo:** [anotherproject.com](https://anotherproject.com)
-- **Technologies:** [Your tech stack]
-  9
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical)
