@@ -1,20 +1,5 @@
 <div align="center">
   
-  ```javascript
-  const profile = {
-    name: "Najim",
-    title: "Full-Stack Developer | MERN Specialist | UI/UX Enthusiast",
-    location: "Earth",
-    skills: ["JavaScript", "React", "Node.js", "MongoDB", "Express","Mongoose","GraphQL","Next.js","TypeScript"],
-    learning: ["CPP", "Advanced Full Stack"],
-    interests: ["Clean Code", "Open Source", "Software Engineering"],
-    contact: "najim.developer@gmail.com"
-  };
-  
-  // Feel free to connect!
-  console.log(`👋 Hi, I'm ${profile.name}!`);
-  ```
-  
   # Najim
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-najim2004) 
@@ -26,89 +11,6 @@
     <strong>Full-Stack Developer | MERN Specialist | UI/UX Enthusiast</strong>
   </p>
 </div>
-
-<div class="profile-banner">
-  <div class="banner-content">
-    <div class="avatar-section">
-      <div class="avatar-circle">N</div>
-    </div>
-    <div class="info-section">
-      <h1>Najim</h1>
-      <h2>Full-Stack Developer | MERN Specialist | UI/UX Enthusiast</h2>
-      <div class="tags">
-        <span>JavaScript</span>
-        <span>React</span>
-        <span>Node.js</span>
-        <span>MongoDB</span>
-        <span>Express</span>
-      </div>
-      <p>📍 Earth • 📧 najim.developer@gmail.com</p>
-    </div>
-  </div>
-</div>
-
-<style>
-.profile-banner {
-  background: linear-gradient(135deg, #1a1a2e, #16213e);
-  border-radius: 12px;
-  padding: 2rem;
-  color: white;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-  margin: 20px 0;
-}
-
-.banner-content {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
-}
-
-.avatar-circle {
-  width: 80px;
-  height: 80px;
-  background: linear-gradient(45deg, #4a90e2, #67b26f);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 2.5rem;
-  font-weight: bold;
-  color: white;
-}
-
-.info-section h1 {
-  margin: 0;
-  font-size: 2rem;
-  color: #fff;
-}
-
-.info-section h2 {
-  margin: 0.5rem 0;
-  font-size: 1.1rem;
-  color: #a8b2d1;
-  font-weight: normal;
-}
-
-.tags {
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-  margin: 1rem 0;
-}
-
-.tags span {
-  background: rgba(255,255,255,0.1);
-  padding: 0.3rem 0.8rem;
-  border-radius: 15px;
-  font-size: 0.9rem;
-  color: #64ffda;
-}
-
-.info-section p {
-  margin: 0.5rem 0;
-  color: #8892b0;
-}
-</style>
 
 ## 👨‍💻 About Me
 
@@ -134,7 +36,11 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Awesome Packages](https://img.shields.io/badge/React%20Awesome%20Packages-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nextjs](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </details>
 
@@ -146,8 +52,19 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge&logo=api&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+<details open>
+<summary><b>Authentication & Authorization</b></summary>
+<br>
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </details>
 
