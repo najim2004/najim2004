@@ -23,9 +23,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 ## 🎯 My Favorite Quote
 
-<div align="center">
-  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+> "First, solve the problem. Then, write the code." - John Johnson
 
 ## 🚀 Tech Stack
 
@@ -131,10 +129,10 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 <div align="center">
   <a target="_blank" href="https://github.com/najim2004/digitalkrishi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=digitalkrishi&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
   </a>
-  <a target="_blank" href="https://github.com/najim2004/freshobazar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
+  <a target="_blank" href="https://github.com/najim2004/FreshoBazarClient">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=FreshoBazarClient&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
   </a>
 </div>
 
