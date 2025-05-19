@@ -1,12 +1,26 @@
 <div align="center">
-  <img src="./images/github-header-image.png" alt="GitHub Header" width="100%"/>
   
-  # Najim Uddin
+  ```javascript
+  const profile = {
+    name: "Najim",
+    title: "Full-Stack Developer | MERN Specialist | UI/UX Enthusiast",
+    location: "Earth",
+    skills: ["JavaScript", "React", "Node.js", "MongoDB", "Express","Mongoose","GraphQL","Next.js","TypeScript"],
+    learning: ["CPP", "Advanced Full Stack"],
+    interests: ["Clean Code", "Open Source", "Software Engineering"],
+    contact: "najim.developer@gmail.com"
+  };
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://yourportfolio.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  // Feel free to connect!
+  console.log(`👋 Hi, I'm ${profile.name}!`);
+  ```
+  
+  # Najim
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-najim2004) 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najim2004)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/najim_2004)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najim.developer@gmail.com)
   
   <p>
     <strong>Full-Stack Developer | MERN Specialist | UI/UX Enthusiast</strong>
@@ -17,8 +31,8 @@
 
 I'm a passionate full-stack developer specializing in building modern web applications with a focus on user experience. With expertise in the MERN stack, I enjoy transforming complex designs into intuitive and responsive applications. I'm committed to writing clean, maintainable code and constantly exploring new technologies to enhance my skillset.
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **Advanced React Patterns**
+- 🔭 I'm currently working on a personal project
+- 🌱 I'm currently learning CPP and full stack technologies
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, MongoDB, Express, and Node.js**
 
@@ -105,10 +119,10 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/najim2004/project-name">
+  <a target="_blank" href="https://github.com/najim2004/project-name">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
   </a>
-  <a href="https://github.com/najim2004/project-name-2">
+  <a target="_blank" href="https://github.com/najim2004/project-name-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
   </a>
 </div>
@@ -116,13 +130,13 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a target="_blank" href="https://linkedin.com/in/mohammad-najim2004">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a target="_blank" href="https://x.com/najim_2004">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:najim.developer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -134,9 +148,9 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 ---
 
-<div align="center">
+<div target="_blank" align="center">
   <p><i>If you like my work, you can support me by buying me a coffee!</i></p>
-  <a href="https://www.buymeacoffee.com/najim">
+  <a  target="_blank" href="https://www.buymeacoffee.com/najim">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </div>
