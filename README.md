@@ -27,6 +27,89 @@
   </p>
 </div>
 
+<div class="profile-banner">
+  <div class="banner-content">
+    <div class="avatar-section">
+      <div class="avatar-circle">N</div>
+    </div>
+    <div class="info-section">
+      <h1>Najim</h1>
+      <h2>Full-Stack Developer | MERN Specialist | UI/UX Enthusiast</h2>
+      <div class="tags">
+        <span>JavaScript</span>
+        <span>React</span>
+        <span>Node.js</span>
+        <span>MongoDB</span>
+        <span>Express</span>
+      </div>
+      <p>📍 Earth • 📧 najim.developer@gmail.com</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.profile-banner {
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  border-radius: 12px;
+  padding: 2rem;
+  color: white;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  margin: 20px 0;
+}
+
+.banner-content {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.avatar-circle {
+  width: 80px;
+  height: 80px;
+  background: linear-gradient(45deg, #4a90e2, #67b26f);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+.info-section h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.info-section h2 {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+  color: #a8b2d1;
+  font-weight: normal;
+}
+
+.tags {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+.tags span {
+  background: rgba(255,255,255,0.1);
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  color: #64ffda;
+}
+
+.info-section p {
+  margin: 0.5rem 0;
+  color: #8892b0;
+}
+</style>
+
 ## 👨‍💻 About Me
 
 I'm a passionate full-stack developer specializing in building modern web applications with a focus on user experience. With expertise in the MERN stack, I enjoy transforming complex designs into intuitive and responsive applications. I'm committed to writing clean, maintainable code and constantly exploring new technologies to enhance my skillset.
