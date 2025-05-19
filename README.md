@@ -21,11 +21,24 @@ I'm a passionate full-stack developer specializing in building modern web applic
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, MongoDB, Express, and Node.js**
 
+```markdown
+## 🎯 My Favorite Quote
+
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&quoteCategory=programming" alt="Quote" />
+  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+```
 
 ## 🚀 Tech Stack
+
+<details open>
+<summary><b>Programming Language</b></summary>
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <details open>
 <summary><b>Frontend Development</b></summary>
@@ -119,10 +132,10 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ## 📌 Featured Projects
 
 <div align="center">
-  <a target="_blank" href="https://github.com/najim2004/project-name">
+  <a target="_blank" href="https://github.com/najim2004/digitalkrishi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
   </a>
-  <a target="_blank" href="https://github.com/najim2004/project-name-2">
+  <a target="_blank" href="https://github.com/najim2004/freshobazar">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
   </a>
 </div>
