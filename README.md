@@ -1,34 +1,63 @@
-<img align='center' src='./images/github-header-image.png'/>
+<div align="center">
+  <img src="./images/github-header-image.png" alt="GitHub Header" width="100%"/>
+  
+  # Najim Uddin
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://yourportfolio.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najim2004)
+  
+  <p>
+    <strong>Full-Stack Developer | MERN Specialist | UI/UX Enthusiast</strong>
+  </p>
+</div>
 
-<h2 align="center">About Me</h2>
+## 👨‍💻 About Me
 
-I'm a passionate web developer specializing in frontend development with a strong focus on delivering user-friendly and efficient solutions. I enjoy turning complex designs into intuitive and responsive applications. I am constantly learning and exploring new technologies to enhance my skills and contribute effectively to the tech community.
+I'm a passionate full-stack developer specializing in building modern web applications with a focus on user experience. With expertise in the MERN stack, I enjoy transforming complex designs into intuitive and responsive applications. I'm committed to writing clean, maintainable code and constantly exploring new technologies to enhance my skillset.
 
-<h2 align="center">Skills</h2>
+- 🔭 I'm currently working on **[Project Name]**
+- 🌱 I'm currently learning **Advanced React Patterns**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, MongoDB, Express, and Node.js**
 
-### Front-End
+<div align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&quoteCategory=programming" alt="Quote" />
+</div>
 
+## 🚀 Tech Stack
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![API](https://img.shields.io/badge/API-0088cc?style=for-the-badge&logo=api&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React Awesome Packages](https://img.shields.io/badge/React%20Awesome%20Packages-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Back-End
+</details>
 
+<details open>
+<summary><b>Backend Development</b></summary>
+<br>
+  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Authentication
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge&logo=api&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-### Tools
+</details>
 
+<details>
+<summary><b>Tools & Platforms</b></summary>
+<br>
+  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -37,26 +66,24 @@ I'm a passionate web developer specializing in frontend development with a stron
 ![Dev-tools](https://img.shields.io/badge/Dev--tools-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br />
+</details>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
-
-  <!-- Two-column layout -->
   <table>
     <tr>
       <td valign="top" width="50%">
         <!-- General Stats -->
         <h3 align="center">General Stats</h3>
         <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=radical&count_private=true" alt="Najim's GitHub stats"/></div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=najim2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Najim's GitHub stats"/></div>
       </td>
       <td valign="top" width="50%">
         <!-- Top Languages -->
         <h3 align="center">Top Languages</h3>
         <div align="center">
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/></div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/></div>
       </td>
     </tr>
     <tr>
@@ -64,9 +91,52 @@ I'm a passionate web developer specializing in frontend development with a stron
         <!-- Streak Stats spanning two columns -->
         <h3 align="center">Streak Stats</h3>
         <div align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=radical" alt="GitHub Streak"/></div>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najim2004&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak"/></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najim2004&theme=tokyonight" alt="GitHub Profile Summary"/>
       </td>
     </tr>
   </table>
+</div>
 
+## 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/najim2004/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/najim2004/project-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najim2004&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2"/>
+  </a>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=najim2004&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <p><i>If you like my work, you can support me by buying me a coffee!</i></p>
+  <a href="https://www.buymeacoffee.com/najim">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
 </div>
