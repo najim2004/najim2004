@@ -8,7 +8,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najim.developer@gmail.com)
   
   <p>
-    <strong>Full-Stack Developer | MERN Specialist | UI/UX Enthusiast</strong>
+    <strong>Full-Stack Developer | MERN Specialist | Frontend Developer | Reactjs Developer | Nextjs Developer | Software Engineering Enthusiast</strong>
   </p>
 </div>
 
