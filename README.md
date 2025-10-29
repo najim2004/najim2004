@@ -66,7 +66,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge&logo=https://img.icons8.com/?size=100&id=21887&format=png&color=000000&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
