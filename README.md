@@ -8,8 +8,13 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najim.developer@gmail.com)
   
   <p>
-    <strong>Full-Stack Developer | MERN Specialist | Frontend Developer | Reactjs Developer | Nextjs Developer | Software Engineering Enthusiast</strong>
+    <strong>Full-Stack Developer | MERN Specialist | Backend Developer | Frontend Developer | Reactjs Developer | Nextjs Developer | Software Engineering Enthusiast</strong>
   </p>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=najim2004&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -59,6 +64,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
   
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nest&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge&logo=api&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -77,7 +83,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & Platforms</b></summary>
 <br>
   
@@ -150,16 +156,11 @@ I'm a passionate full-stack developer specializing in building modern web applic
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=najim2004&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
+<!-- ---
 
 <div target="_blank" align="center">
   <p><i>If you like my work, you can support me by buying me a coffee!</i></p>
   <a  target="_blank" href="https://www.buymeacoffee.com/najim">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
-</div>
+</div> -->
